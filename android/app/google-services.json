@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734651851924",
+    "project_id": "saubol-project-14c32",
+    "storage_bucket": "saubol-project-14c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734651851924:android:adc73614fb6bcb18944081",
+        "android_client_info": {
+          "package_name": "com.example.saubol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW80b4u8VCPsAj-wxymjvNUGfltz9qMH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
